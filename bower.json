@@ -1,0 +1,25 @@
+{
+  "name": "hcl-polymer-simple-list",
+  "version" : "0.0.1",
+  "homepage": "https://github.com/mailtovinay/polymer-simple-list",
+  "authors": [
+    "Vinay Kumar"
+  ],
+  "description": "hcl-polymer-simple-list",
+  "main": "",
+  "keywords": [
+    "{{site.project_title}}",
+    "web-components"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "^2.0.2"
+  }
+}
